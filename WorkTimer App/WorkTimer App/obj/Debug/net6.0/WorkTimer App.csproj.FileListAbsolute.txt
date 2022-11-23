@@ -13,3 +13,18 @@ C:\Users\USER\source\repos\Project 01\Pomo-Timer\Stephen's Project\WorkTimer App
 C:\Users\USER\source\repos\Project 01\Pomo-Timer\Stephen's Project\WorkTimer App\WorkTimer App\obj\Debug\net6.0\WorkTimer App.pdb
 C:\Users\USER\source\repos\Project 01\Pomo-Timer\Stephen's Project\WorkTimer App\WorkTimer App\obj\Debug\net6.0\WorkTimer App.genruntimeconfig.cache
 C:\Users\USER\source\repos\Project 01\Pomo-Timer\Stephen's Project\WorkTimer App\WorkTimer App\obj\Debug\net6.0\ref\WorkTimer App.dll
+C:\Users\USER\source\repos\Project 01\Pomo-Timer\WorkTimer App\WorkTimer App\bin\Debug\net6.0\WorkTimer App.exe
+C:\Users\USER\source\repos\Project 01\Pomo-Timer\WorkTimer App\WorkTimer App\bin\Debug\net6.0\WorkTimer App.deps.json
+C:\Users\USER\source\repos\Project 01\Pomo-Timer\WorkTimer App\WorkTimer App\bin\Debug\net6.0\WorkTimer App.runtimeconfig.json
+C:\Users\USER\source\repos\Project 01\Pomo-Timer\WorkTimer App\WorkTimer App\bin\Debug\net6.0\WorkTimer App.dll
+C:\Users\USER\source\repos\Project 01\Pomo-Timer\WorkTimer App\WorkTimer App\bin\Debug\net6.0\WorkTimer App.pdb
+C:\Users\USER\source\repos\Project 01\Pomo-Timer\WorkTimer App\WorkTimer App\obj\Debug\net6.0\WorkTimer App.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\Project 01\Pomo-Timer\WorkTimer App\WorkTimer App\obj\Debug\net6.0\WorkTimer App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\Project 01\Pomo-Timer\WorkTimer App\WorkTimer App\obj\Debug\net6.0\WorkTimer App.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\Project 01\Pomo-Timer\WorkTimer App\WorkTimer App\obj\Debug\net6.0\WorkTimer App.AssemblyInfo.cs
+C:\Users\USER\source\repos\Project 01\Pomo-Timer\WorkTimer App\WorkTimer App\obj\Debug\net6.0\WorkTimer App.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Project 01\Pomo-Timer\WorkTimer App\WorkTimer App\obj\Debug\net6.0\WorkTimer App.dll
+C:\Users\USER\source\repos\Project 01\Pomo-Timer\WorkTimer App\WorkTimer App\obj\Debug\net6.0\refint\WorkTimer App.dll
+C:\Users\USER\source\repos\Project 01\Pomo-Timer\WorkTimer App\WorkTimer App\obj\Debug\net6.0\WorkTimer App.pdb
+C:\Users\USER\source\repos\Project 01\Pomo-Timer\WorkTimer App\WorkTimer App\obj\Debug\net6.0\WorkTimer App.genruntimeconfig.cache
+C:\Users\USER\source\repos\Project 01\Pomo-Timer\WorkTimer App\WorkTimer App\obj\Debug\net6.0\ref\WorkTimer App.dll

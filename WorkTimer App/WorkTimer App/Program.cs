@@ -10,7 +10,7 @@ namespace WorkTimer_App
         {
             Console.BackgroundColor = ConsoleColor.Black;
             Console.ForegroundColor = ConsoleColor.DarkCyan;
-            Console.SetWindowSize(50, 20);
+            Console.SetWindowSize(80, 20);
             Console.Clear();
             Worker Worker = new Worker();
             Console.WriteLine("What is your name, new guest?");

@@ -1,6 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\WorkTimer App",
+    "\\WorkTimer App\\WorkTimer App"
   ],
+  "SelectedNode": "\\WorkTimer App\\WorkTimer App\\WorkTimer_App.cs",
   "PreviewInSolutionExplorer": false
 }
